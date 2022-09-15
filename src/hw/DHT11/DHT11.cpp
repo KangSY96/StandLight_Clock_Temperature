@@ -1,4 +1,5 @@
 #include "DHT11.h"
+#include "DHT_Data.h"
 #include <wiringPi.h>
 #include <iostream>
 
